@@ -3,7 +3,8 @@ import chalk from 'chalk'
 import {render, screen, prettyDOM} from '@testing-library/react'
 // import App from '../final/05'
 // import App from '../exercise/05'
-import App from '../exercise/05.extra-01'
+// import App from '../exercise/05.extra-01'
+import App from '../exercise/05.extra-02'
 
 test('renders the correct styles new', () => {
   render(<App />)
